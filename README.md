@@ -5,7 +5,7 @@ AOV Manager is an interface designed to help managing Arnold Aovs within a Maya 
 
 It's only available for maya versions up to maya-2016
 
-Written documentation not available at present.
+Written documentation is not available at present.
 
 For help watch the AOV Manager section of this video: https://vimeo.com/214507289
 

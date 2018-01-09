@@ -1,0 +1,27 @@
+{
+    "AOV PRESETS":
+    [
+        {"ui_Name":"ID_<shape attr ID>", "aov_Name": "aiAOV_ID_A", "type": "<attrId>", "edit": "True"},
+        {"ui_Name":"ID_<custom name ID>", "aov_Name": "aiAOV_ID_A", "type": "<customID>", "edit": "True"},
+        {"ui_Name":"AO", "aov_Name": "aiAOV_AO", "type": "<presets>"},
+        {"ui_Name":"MV", "aov_Name": "aiAOV_MV",  "type": "<presets>"},
+        {"ui_Name":"Incidence", "aov_Name": "aiAOV_Incidence",  "type": "<presets>"},
+        {"ui_Name":"UV", "aov_Name": "aiAOV_UV",  "type": "<presets>"},
+        {"ui_Name":"Normals", "aov_Name": "aiAOV_Normals", "type": "<presets>"}
+    ],
+    "BUILTIN":
+    [
+        {"ui_Name":"P", "aov_Name": "aiAOV_P", "type": "<builtin>", "data": "point"},
+        {"ui_Name":"Z", "aov_Name": "aiAOV_Z", "type": "<builtin>", "data": "float"},
+        {"ui_Name":"direct_diffuse", "aov_Name": "aiAOV_direct_diffuse", "type": "<builtin>"},
+        {"ui_Name":"direct_specular", "aov_Name": "aiAOV_direct_specular", "type": "<builtin>"},
+        {"ui_Name":"emission", "aov_Name": "aiAOV_emission", "type": "<builtin>"},
+        {"ui_Name":"indirect_diffuse", "aov_Name": "aiAOV_indirect_diffuse", "type": "<builtin>"},
+        {"ui_Name":"indirect_specular", "aov_Name": "aiAOV_indirect_specular", "type": "<builtin>"},
+        {"ui_Name":"reflection", "aov_Name": "aiAOV_reflection", "type": "<builtin>"},
+        {"ui_Name":"refraction", "aov_Name": "aiAOV_refraction", "type": "<builtin>"},
+        {"ui_Name":"refraction_opacity", "aov_Name": "aiAOV_refraction_opacity", "type": "<builtin>"},
+        {"ui_Name":"motionvector", "aov_Name": "aiAOV_motionvector", "type": "<builtin>"},
+        {"ui_Name":"sss", "aov_Name": "aiAOV_sss", "type": "<builtin>"}
+    ]
+}
